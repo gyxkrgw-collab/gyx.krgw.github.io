@@ -4,7 +4,7 @@
 ## About Me
 - **Name**: 郭以媗
 - **Email**: s1151406@mail.yzu.edu.tw
-- **GitHub**: [@gyxkrgw]((https://github.com/gyxkrgw-collab))
+- **GitHub**: [@gyxkrgw](https://github.com/gyxkrgw-collab)
 
 ## About This Site
 This is my personal portfolio and project showcase website built with GitHub Pages.
